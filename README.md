@@ -9,8 +9,8 @@ angelnaguibjaidar@gmail.com
 - p04 - paga trabajador Completado
 
 ## Actividad 2
-- p05 - Operaciones matematicas
-- p06 - calcular el promedio de 3 calificaciones
-- p07 - operaciones matematicas
-- p08 - funciones trigonometricas
-- p09 - dividir en cifras
+- p05 - Operaciones matematicas Completado
+- p06 - calcular el promedio de 3 calificaciones Completado
+- p07 - operaciones matematicas Completado
+- p08 - funciones trigonometricas Completado
+- p09 - dividir en cifras Completado

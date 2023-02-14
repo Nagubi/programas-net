@@ -8,6 +8,9 @@ angelnaguibjaidar@gmail.com
 - p03 - area triangulo Completado
 - p04 - paga trabajador Completado
 
-- p05 - calcular el promedio de 3 calificaciones
-- p06 - operaciones matematicas
-- p07 - funciones trigonometricas
+## Actividad 2
+- p05 - Operaciones matematicas
+- p06 - calcular el promedio de 3 calificaciones
+- p07 - operaciones matematicas
+- p08 - funciones trigonometricas
+- p09 - dividir en cifras

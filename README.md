@@ -14,3 +14,10 @@ angelnaguibjaidar@gmail.com
 - p07 - operaciones matematicas Completado
 - p08 - funciones trigonometricas Completado
 - p09 - dividir en cifras Completado
+
+## Actividad 3
+- p10 - trabajando-entreros Completado
+- p11 - trabajando-flotantes Completado
+- p12 - trabajando-constantes Completado
+- p13 - trabajando-caracter Completado
+- p14 - conversion-tipos Completado

@@ -21,3 +21,12 @@ angelnaguibjaidar@gmail.com
 - p12 - trabajando-constantes Completado
 - p13 - trabajando-caracter Completado
 - p14 - conversion-tipos Completado
+
+
+
+# Actividad 4
+
+- p21 - verificar-numero Completado
+- p22 - verificar-suma Completado
+- p23 - convertir-temperatura Completado
+- p24 - Paga-Extra Completado

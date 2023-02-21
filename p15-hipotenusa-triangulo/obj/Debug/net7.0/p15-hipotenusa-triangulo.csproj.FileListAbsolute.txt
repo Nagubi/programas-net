@@ -1,0 +1,15 @@
+C:\Users\Nagubi\Documents\programas-net\p15-hipotenusa-triangulo\obj\Debug\net7.0\p15-hipotenusa-triangulo.csproj.AssemblyReference.cache
+C:\Users\Nagubi\Documents\programas-net\p15-hipotenusa-triangulo\obj\Debug\net7.0\p15-hipotenusa-triangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nagubi\Documents\programas-net\p15-hipotenusa-triangulo\obj\Debug\net7.0\p15-hipotenusa-triangulo.AssemblyInfoInputs.cache
+C:\Users\Nagubi\Documents\programas-net\p15-hipotenusa-triangulo\obj\Debug\net7.0\p15-hipotenusa-triangulo.AssemblyInfo.cs
+C:\Users\Nagubi\Documents\programas-net\p15-hipotenusa-triangulo\obj\Debug\net7.0\p15-hipotenusa-triangulo.csproj.CoreCompileInputs.cache
+C:\Users\Nagubi\Documents\programas-net\p15-hipotenusa-triangulo\bin\Debug\net7.0\p15-hipotenusa-triangulo.exe
+C:\Users\Nagubi\Documents\programas-net\p15-hipotenusa-triangulo\bin\Debug\net7.0\p15-hipotenusa-triangulo.deps.json
+C:\Users\Nagubi\Documents\programas-net\p15-hipotenusa-triangulo\bin\Debug\net7.0\p15-hipotenusa-triangulo.runtimeconfig.json
+C:\Users\Nagubi\Documents\programas-net\p15-hipotenusa-triangulo\bin\Debug\net7.0\p15-hipotenusa-triangulo.dll
+C:\Users\Nagubi\Documents\programas-net\p15-hipotenusa-triangulo\bin\Debug\net7.0\p15-hipotenusa-triangulo.pdb
+C:\Users\Nagubi\Documents\programas-net\p15-hipotenusa-triangulo\obj\Debug\net7.0\p15-hipotenusa-triangulo.dll
+C:\Users\Nagubi\Documents\programas-net\p15-hipotenusa-triangulo\obj\Debug\net7.0\refint\p15-hipotenusa-triangulo.dll
+C:\Users\Nagubi\Documents\programas-net\p15-hipotenusa-triangulo\obj\Debug\net7.0\p15-hipotenusa-triangulo.pdb
+C:\Users\Nagubi\Documents\programas-net\p15-hipotenusa-triangulo\obj\Debug\net7.0\p15-hipotenusa-triangulo.genruntimeconfig.cache
+C:\Users\Nagubi\Documents\programas-net\p15-hipotenusa-triangulo\obj\Debug\net7.0\ref\p15-hipotenusa-triangulo.dll

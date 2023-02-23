@@ -1,0 +1,15 @@
+C:\Users\Nagubi\Documents\programas-net\p28-ley-de-newton\bin\Debug\net7.0\p28-ley-de-newton.exe
+C:\Users\Nagubi\Documents\programas-net\p28-ley-de-newton\bin\Debug\net7.0\p28-ley-de-newton.deps.json
+C:\Users\Nagubi\Documents\programas-net\p28-ley-de-newton\bin\Debug\net7.0\p28-ley-de-newton.runtimeconfig.json
+C:\Users\Nagubi\Documents\programas-net\p28-ley-de-newton\bin\Debug\net7.0\p28-ley-de-newton.dll
+C:\Users\Nagubi\Documents\programas-net\p28-ley-de-newton\bin\Debug\net7.0\p28-ley-de-newton.pdb
+C:\Users\Nagubi\Documents\programas-net\p28-ley-de-newton\obj\Debug\net7.0\p28-ley-de-newton.csproj.AssemblyReference.cache
+C:\Users\Nagubi\Documents\programas-net\p28-ley-de-newton\obj\Debug\net7.0\p28-ley-de-newton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nagubi\Documents\programas-net\p28-ley-de-newton\obj\Debug\net7.0\p28-ley-de-newton.AssemblyInfoInputs.cache
+C:\Users\Nagubi\Documents\programas-net\p28-ley-de-newton\obj\Debug\net7.0\p28-ley-de-newton.AssemblyInfo.cs
+C:\Users\Nagubi\Documents\programas-net\p28-ley-de-newton\obj\Debug\net7.0\p28-ley-de-newton.csproj.CoreCompileInputs.cache
+C:\Users\Nagubi\Documents\programas-net\p28-ley-de-newton\obj\Debug\net7.0\p28-ley-de-newton.dll
+C:\Users\Nagubi\Documents\programas-net\p28-ley-de-newton\obj\Debug\net7.0\refint\p28-ley-de-newton.dll
+C:\Users\Nagubi\Documents\programas-net\p28-ley-de-newton\obj\Debug\net7.0\p28-ley-de-newton.pdb
+C:\Users\Nagubi\Documents\programas-net\p28-ley-de-newton\obj\Debug\net7.0\p28-ley-de-newton.genruntimeconfig.cache
+C:\Users\Nagubi\Documents\programas-net\p28-ley-de-newton\obj\Debug\net7.0\ref\p28-ley-de-newton.dll

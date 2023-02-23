@@ -1,0 +1,15 @@
+C:\Users\Nagubi\Documents\programas-net\p27-aceptar-estudiante\bin\Debug\net7.0\p27-aceptar-estudiante.exe
+C:\Users\Nagubi\Documents\programas-net\p27-aceptar-estudiante\bin\Debug\net7.0\p27-aceptar-estudiante.deps.json
+C:\Users\Nagubi\Documents\programas-net\p27-aceptar-estudiante\bin\Debug\net7.0\p27-aceptar-estudiante.runtimeconfig.json
+C:\Users\Nagubi\Documents\programas-net\p27-aceptar-estudiante\bin\Debug\net7.0\p27-aceptar-estudiante.dll
+C:\Users\Nagubi\Documents\programas-net\p27-aceptar-estudiante\bin\Debug\net7.0\p27-aceptar-estudiante.pdb
+C:\Users\Nagubi\Documents\programas-net\p27-aceptar-estudiante\obj\Debug\net7.0\p27-aceptar-estudiante.csproj.AssemblyReference.cache
+C:\Users\Nagubi\Documents\programas-net\p27-aceptar-estudiante\obj\Debug\net7.0\p27-aceptar-estudiante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nagubi\Documents\programas-net\p27-aceptar-estudiante\obj\Debug\net7.0\p27-aceptar-estudiante.AssemblyInfoInputs.cache
+C:\Users\Nagubi\Documents\programas-net\p27-aceptar-estudiante\obj\Debug\net7.0\p27-aceptar-estudiante.AssemblyInfo.cs
+C:\Users\Nagubi\Documents\programas-net\p27-aceptar-estudiante\obj\Debug\net7.0\p27-aceptar-estudiante.csproj.CoreCompileInputs.cache
+C:\Users\Nagubi\Documents\programas-net\p27-aceptar-estudiante\obj\Debug\net7.0\p27-aceptar-estudiante.dll
+C:\Users\Nagubi\Documents\programas-net\p27-aceptar-estudiante\obj\Debug\net7.0\refint\p27-aceptar-estudiante.dll
+C:\Users\Nagubi\Documents\programas-net\p27-aceptar-estudiante\obj\Debug\net7.0\p27-aceptar-estudiante.pdb
+C:\Users\Nagubi\Documents\programas-net\p27-aceptar-estudiante\obj\Debug\net7.0\p27-aceptar-estudiante.genruntimeconfig.cache
+C:\Users\Nagubi\Documents\programas-net\p27-aceptar-estudiante\obj\Debug\net7.0\ref\p27-aceptar-estudiante.dll

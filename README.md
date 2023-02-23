@@ -22,7 +22,14 @@ angelnaguibjaidar@gmail.com
 - p13 - trabajando-caracter Completado
 - p14 - conversion-tipos Completado
 
+# Tarea 1
 
+- p15 - hipotenusa-triangulo Completado
+- p16 - calcular-angulo Completado
+- p17 - convertir-temperatura Completado
+- p18 - volumen-cilindro Completado
+- p19 - calculo-tiempo Completado
+- p20 - convertir-a-dolares Completado
 
 # Actividad 4
 

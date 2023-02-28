@@ -44,3 +44,9 @@ angelnaguibjaidar@gmail.com
 - p26 - tipo-angulo Completado
 - p27 - aceptar-estudiante Completado
 - p28 - ley-de-newton Completado
+
+## Actividad 6 (28/02/2023)
+- p29 - calculadora Completado
+- p30 - dia-semana Completado
+- p31 - numeros-romano Completado
+- p32 - pago-estacionamiento Completado 

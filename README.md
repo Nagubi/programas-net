@@ -50,3 +50,11 @@ angelnaguibjaidar@gmail.com
 - p30 - dia-semana Completado
 - p31 - numeros-romano Completado
 - p32 - pago-estacionamiento Completado 
+
+## Tarea 2 (Ejecucion Condicional repaso)
+- p33 - numeros-consecutivos Completado
+- p34 - numero-mayor Completado
+- p35 - continentes-mundo Completado
+- p36 - compra-pizza Completado
+- p37 - calculo-notas Completado
+- p38 - aceptar-estudiante-v2 Completado

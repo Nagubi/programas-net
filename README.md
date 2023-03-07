@@ -58,3 +58,9 @@ angelnaguibjaidar@gmail.com
 - p36 - compra-pizza Completado
 - p37 - calculo-notas Completado
 - p38 - aceptar-estudiante-v2 Completado
+
+## Repaso Examen 
+- p39 - repas-parcial-1 Completado
+
+## Primer Examen Parcial
+- p40 - Primer-parcial Completado

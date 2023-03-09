@@ -64,3 +64,10 @@ angelnaguibjaidar@gmail.com
 
 ## Primer Examen Parcial
 - p40 - Primer-parcial Completado
+
+## Actividad 08(09/03/2023)
+- p41 - numeros-1-a-100 Completado
+- p42 - numeros-100-1 Completado
+- p43 - procesa-calificaciones Completado
+- p44 - tabla-multiplicar Completado
+- p45 - conteo-numeros Completado

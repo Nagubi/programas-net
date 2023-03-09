@@ -1,0 +1,15 @@
+C:\Users\Nagubi\Documents\programas-net\p41-numeros-1-a-100\bin\Debug\net7.0\p41-numeros-1-a-100.exe
+C:\Users\Nagubi\Documents\programas-net\p41-numeros-1-a-100\bin\Debug\net7.0\p41-numeros-1-a-100.deps.json
+C:\Users\Nagubi\Documents\programas-net\p41-numeros-1-a-100\bin\Debug\net7.0\p41-numeros-1-a-100.runtimeconfig.json
+C:\Users\Nagubi\Documents\programas-net\p41-numeros-1-a-100\bin\Debug\net7.0\p41-numeros-1-a-100.dll
+C:\Users\Nagubi\Documents\programas-net\p41-numeros-1-a-100\bin\Debug\net7.0\p41-numeros-1-a-100.pdb
+C:\Users\Nagubi\Documents\programas-net\p41-numeros-1-a-100\obj\Debug\net7.0\p41-numeros-1-a-100.csproj.AssemblyReference.cache
+C:\Users\Nagubi\Documents\programas-net\p41-numeros-1-a-100\obj\Debug\net7.0\p41-numeros-1-a-100.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nagubi\Documents\programas-net\p41-numeros-1-a-100\obj\Debug\net7.0\p41-numeros-1-a-100.AssemblyInfoInputs.cache
+C:\Users\Nagubi\Documents\programas-net\p41-numeros-1-a-100\obj\Debug\net7.0\p41-numeros-1-a-100.AssemblyInfo.cs
+C:\Users\Nagubi\Documents\programas-net\p41-numeros-1-a-100\obj\Debug\net7.0\p41-numeros-1-a-100.csproj.CoreCompileInputs.cache
+C:\Users\Nagubi\Documents\programas-net\p41-numeros-1-a-100\obj\Debug\net7.0\p41-numeros-1-a-100.dll
+C:\Users\Nagubi\Documents\programas-net\p41-numeros-1-a-100\obj\Debug\net7.0\refint\p41-numeros-1-a-100.dll
+C:\Users\Nagubi\Documents\programas-net\p41-numeros-1-a-100\obj\Debug\net7.0\p41-numeros-1-a-100.pdb
+C:\Users\Nagubi\Documents\programas-net\p41-numeros-1-a-100\obj\Debug\net7.0\p41-numeros-1-a-100.genruntimeconfig.cache
+C:\Users\Nagubi\Documents\programas-net\p41-numeros-1-a-100\obj\Debug\net7.0\ref\p41-numeros-1-a-100.dll

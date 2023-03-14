@@ -73,7 +73,13 @@ angelnaguibjaidar@gmail.com
 - p45 - conteo-numeros Completado
 
 ## Actividad 09(14/03/2023)
-- p46 – pares-ascendente
-- p47 – impares-descendente
-- p48 – tabla-de-conversion
-- p49 – conjetura-de-collatz
+- p46 – pares-ascendente Completado
+- p47 – impares-descendente Completado
+- p48 – tabla-de-conversion Completado
+- p49 – conjetura-de-collatz Completado
+
+## Tarea 3
+- p50 - impares-ascendente Completado
+- p51 – pares-descendente Completado
+- p52 - conversion-temperaturas Completado
+- p53 - serie-fibonaci Completado

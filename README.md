@@ -71,3 +71,9 @@ angelnaguibjaidar@gmail.com
 - p43 - procesa-calificaciones Completado
 - p44 - tabla-multiplicar Completado
 - p45 - conteo-numeros Completado
+
+## Actividad 09(14/03/2023)
+- p46 – pares-ascendente
+- p47 – impares-descendente
+- p48 – tabla-de-conversion
+- p49 – conjetura-de-collatz

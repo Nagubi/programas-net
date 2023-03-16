@@ -83,3 +83,10 @@ angelnaguibjaidar@gmail.com
 - p51 – pares-descendente Completado
 - p52 - conversion-temperaturas Completado
 - p53 - serie-fibonaci Completado
+
+## Actividad 10(16/03/2023)
+- p54 - numeros-1-n Completado
+- p55 - numeros-n-1 Completado
+- p56 - arriba-abajo Completado
+- p57 - suma-pares-impares Completado
+- p58 - suma-promedio Completado

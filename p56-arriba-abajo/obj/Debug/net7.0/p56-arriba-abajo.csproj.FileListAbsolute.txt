@@ -1,0 +1,15 @@
+C:\Users\Nagubi\Documents\programas-net\p56-arriba-abajo\bin\Debug\net7.0\p56-arriba-abajo.exe
+C:\Users\Nagubi\Documents\programas-net\p56-arriba-abajo\bin\Debug\net7.0\p56-arriba-abajo.deps.json
+C:\Users\Nagubi\Documents\programas-net\p56-arriba-abajo\bin\Debug\net7.0\p56-arriba-abajo.runtimeconfig.json
+C:\Users\Nagubi\Documents\programas-net\p56-arriba-abajo\bin\Debug\net7.0\p56-arriba-abajo.dll
+C:\Users\Nagubi\Documents\programas-net\p56-arriba-abajo\bin\Debug\net7.0\p56-arriba-abajo.pdb
+C:\Users\Nagubi\Documents\programas-net\p56-arriba-abajo\obj\Debug\net7.0\p56-arriba-abajo.csproj.AssemblyReference.cache
+C:\Users\Nagubi\Documents\programas-net\p56-arriba-abajo\obj\Debug\net7.0\p56-arriba-abajo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nagubi\Documents\programas-net\p56-arriba-abajo\obj\Debug\net7.0\p56-arriba-abajo.AssemblyInfoInputs.cache
+C:\Users\Nagubi\Documents\programas-net\p56-arriba-abajo\obj\Debug\net7.0\p56-arriba-abajo.AssemblyInfo.cs
+C:\Users\Nagubi\Documents\programas-net\p56-arriba-abajo\obj\Debug\net7.0\p56-arriba-abajo.csproj.CoreCompileInputs.cache
+C:\Users\Nagubi\Documents\programas-net\p56-arriba-abajo\obj\Debug\net7.0\p56-arriba-abajo.dll
+C:\Users\Nagubi\Documents\programas-net\p56-arriba-abajo\obj\Debug\net7.0\refint\p56-arriba-abajo.dll
+C:\Users\Nagubi\Documents\programas-net\p56-arriba-abajo\obj\Debug\net7.0\p56-arriba-abajo.pdb
+C:\Users\Nagubi\Documents\programas-net\p56-arriba-abajo\obj\Debug\net7.0\p56-arriba-abajo.genruntimeconfig.cache
+C:\Users\Nagubi\Documents\programas-net\p56-arriba-abajo\obj\Debug\net7.0\ref\p56-arriba-abajo.dll

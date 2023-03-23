@@ -98,10 +98,10 @@ angelnaguibjaidar@gmail.com
 - p62 - suma-terminos Completado
 
 ## Tarea 4
-- p63 - secuencia-numeros-1
-- p64 - secuencia-numeros-2
-- p65 - suma-terminos-1
-- p66 - suma-terminos-2
+- p63 - secuencia-numeros-1 Completado
+- p64 - secuencia-numeros-2 Completado
+- p65 - suma-terminos-1 Completado
+- p66 - suma-terminos-2 Completado
 
 ## Actividad 12
 - p67 - promedio-numeros Completado

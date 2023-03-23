@@ -90,3 +90,22 @@ angelnaguibjaidar@gmail.com
 - p56 - arriba-abajo Completado
 - p57 - suma-pares-impares Completado
 - p58 - suma-promedio Completado
+
+## Actividad 11
+- p59 - tablas-multiplicar Completado
+- p60 - piramide Completado
+- p61 - factorial-numeros Completado
+- p62 - suma-terminos Completado
+
+## Tarea 4
+- p63 - secuencia-numeros-1
+- p64 - secuencia-numeros-2
+- p65 - suma-terminos-1
+- p66 - suma-terminos-2
+
+## Actividad 12
+- p67 - promedio-numeros Completado
+- p68 - conversion-temperaturas Completado
+- p69 - suma-rango Completado
+- p70 - tabla-multiplicar Completado
+- p71 - calificacion-letra Completado

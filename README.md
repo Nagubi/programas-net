@@ -109,3 +109,10 @@ angelnaguibjaidar@gmail.com
 - p69 - suma-rango Completado
 - p70 - tabla-multiplicar Completado
 - p71 - calificacion-letra Completado
+
+## Actividad 13(30/03/2023)
+- p72 - mayor-tres-numeros Completado
+- p73 - suma-digitos Completado
+- p74 - suma-pares-impares Completado
+- p75 - factorial Completado
+- p76 - cuadro-caracter Completado

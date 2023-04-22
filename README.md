@@ -116,3 +116,7 @@ angelnaguibjaidar@gmail.com
 - p74 - suma-pares-impares Completado
 - p75 - factorial Completado
 - p76 - cuadro-caracter Completado
+
+
+## Actividad 14(22/04/2023)
+- p82 - repaso-parcial-2

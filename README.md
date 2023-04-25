@@ -126,3 +126,6 @@ angelnaguibjaidar@gmail.com
 
 ## Actividad 14(22/04/2023)
 - p82 - repaso-parcial-2
+
+## Segundo Examen Parcial(25/04/2023)
+- p83 - segundo-examen-parcial

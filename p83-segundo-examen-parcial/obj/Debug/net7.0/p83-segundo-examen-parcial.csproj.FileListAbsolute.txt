@@ -1,0 +1,15 @@
+C:\Users\Nagubi\Documents\programas-net\p83-segundo-examen-parcial\obj\Debug\net7.0\p83-segundo-examen-parcial.csproj.AssemblyReference.cache
+C:\Users\Nagubi\Documents\programas-net\p83-segundo-examen-parcial\obj\Debug\net7.0\p83-segundo-examen-parcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nagubi\Documents\programas-net\p83-segundo-examen-parcial\obj\Debug\net7.0\p83-segundo-examen-parcial.AssemblyInfoInputs.cache
+C:\Users\Nagubi\Documents\programas-net\p83-segundo-examen-parcial\obj\Debug\net7.0\p83-segundo-examen-parcial.AssemblyInfo.cs
+C:\Users\Nagubi\Documents\programas-net\p83-segundo-examen-parcial\obj\Debug\net7.0\p83-segundo-examen-parcial.csproj.CoreCompileInputs.cache
+C:\Users\Nagubi\Documents\programas-net\p83-segundo-examen-parcial\bin\Debug\net7.0\p83-segundo-examen-parcial.exe
+C:\Users\Nagubi\Documents\programas-net\p83-segundo-examen-parcial\bin\Debug\net7.0\p83-segundo-examen-parcial.deps.json
+C:\Users\Nagubi\Documents\programas-net\p83-segundo-examen-parcial\bin\Debug\net7.0\p83-segundo-examen-parcial.runtimeconfig.json
+C:\Users\Nagubi\Documents\programas-net\p83-segundo-examen-parcial\bin\Debug\net7.0\p83-segundo-examen-parcial.dll
+C:\Users\Nagubi\Documents\programas-net\p83-segundo-examen-parcial\bin\Debug\net7.0\p83-segundo-examen-parcial.pdb
+C:\Users\Nagubi\Documents\programas-net\p83-segundo-examen-parcial\obj\Debug\net7.0\p83-segundo-examen-parcial.dll
+C:\Users\Nagubi\Documents\programas-net\p83-segundo-examen-parcial\obj\Debug\net7.0\refint\p83-segundo-examen-parcial.dll
+C:\Users\Nagubi\Documents\programas-net\p83-segundo-examen-parcial\obj\Debug\net7.0\p83-segundo-examen-parcial.pdb
+C:\Users\Nagubi\Documents\programas-net\p83-segundo-examen-parcial\obj\Debug\net7.0\p83-segundo-examen-parcial.genruntimeconfig.cache
+C:\Users\Nagubi\Documents\programas-net\p83-segundo-examen-parcial\obj\Debug\net7.0\ref\p83-segundo-examen-parcial.dll

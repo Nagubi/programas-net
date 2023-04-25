@@ -117,6 +117,12 @@ angelnaguibjaidar@gmail.com
 - p75 - factorial Completado
 - p76 - cuadro-caracter Completado
 
+## Tarea 5
+- p77 - numero-menor
+- p78 - dia-semana 
+- p79 - medidas-longitud  
+- p80 - suma-multiplos
+- p81 – angulo
 
 ## Actividad 14(22/04/2023)
 - p82 - repaso-parcial-2

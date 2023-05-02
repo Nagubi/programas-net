@@ -1,4 +1,4 @@
-﻿//Segundo examen parcial
+﻿//Segundo examen parcial 1
 
 int op,n=0;
 int x=0;

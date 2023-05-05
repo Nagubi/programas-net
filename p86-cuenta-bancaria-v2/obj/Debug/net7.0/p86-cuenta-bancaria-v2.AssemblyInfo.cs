@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("p85-cuenta-bancaria-v1")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("p86-cuenta-bancaria-v2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("p85-cuenta-bancaria-v1")]
-[assembly: System.Reflection.AssemblyTitleAttribute("p85-cuenta-bancaria-v1")]
+[assembly: System.Reflection.AssemblyProductAttribute("p86-cuenta-bancaria-v2")]
+[assembly: System.Reflection.AssemblyTitleAttribute("p86-cuenta-bancaria-v2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.

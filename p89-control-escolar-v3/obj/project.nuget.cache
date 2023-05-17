@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5cqedwx5blf+zzMQAIAZk+nO5fbC13fbZhuxEM/AvkkZdN/51qvc8Meha2uBwvz22wh6cB145fe0huo86FT7GA==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\Nagubi\\Documents\\programas-net\\p89-control-escolar-v3\\p89-control-escolar-v3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\angel\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\angel\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

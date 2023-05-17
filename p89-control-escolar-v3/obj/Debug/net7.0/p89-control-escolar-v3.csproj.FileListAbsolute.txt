@@ -1,0 +1,15 @@
+D:\Users\Nagubi\Documents\programas-net\p89-control-escolar-v3\bin\Debug\net7.0\p89-control-escolar-v3.exe
+D:\Users\Nagubi\Documents\programas-net\p89-control-escolar-v3\bin\Debug\net7.0\p89-control-escolar-v3.deps.json
+D:\Users\Nagubi\Documents\programas-net\p89-control-escolar-v3\bin\Debug\net7.0\p89-control-escolar-v3.runtimeconfig.json
+D:\Users\Nagubi\Documents\programas-net\p89-control-escolar-v3\bin\Debug\net7.0\p89-control-escolar-v3.dll
+D:\Users\Nagubi\Documents\programas-net\p89-control-escolar-v3\bin\Debug\net7.0\p89-control-escolar-v3.pdb
+D:\Users\Nagubi\Documents\programas-net\p89-control-escolar-v3\obj\Debug\net7.0\p89-control-escolar-v3.csproj.AssemblyReference.cache
+D:\Users\Nagubi\Documents\programas-net\p89-control-escolar-v3\obj\Debug\net7.0\p89-control-escolar-v3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Nagubi\Documents\programas-net\p89-control-escolar-v3\obj\Debug\net7.0\p89-control-escolar-v3.AssemblyInfoInputs.cache
+D:\Users\Nagubi\Documents\programas-net\p89-control-escolar-v3\obj\Debug\net7.0\p89-control-escolar-v3.AssemblyInfo.cs
+D:\Users\Nagubi\Documents\programas-net\p89-control-escolar-v3\obj\Debug\net7.0\p89-control-escolar-v3.csproj.CoreCompileInputs.cache
+D:\Users\Nagubi\Documents\programas-net\p89-control-escolar-v3\obj\Debug\net7.0\p89-control-escolar-v3.dll
+D:\Users\Nagubi\Documents\programas-net\p89-control-escolar-v3\obj\Debug\net7.0\refint\p89-control-escolar-v3.dll
+D:\Users\Nagubi\Documents\programas-net\p89-control-escolar-v3\obj\Debug\net7.0\p89-control-escolar-v3.pdb
+D:\Users\Nagubi\Documents\programas-net\p89-control-escolar-v3\obj\Debug\net7.0\p89-control-escolar-v3.genruntimeconfig.cache
+D:\Users\Nagubi\Documents\programas-net\p89-control-escolar-v3\obj\Debug\net7.0\ref\p89-control-escolar-v3.dll

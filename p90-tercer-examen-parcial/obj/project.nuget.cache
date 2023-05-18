@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "KH1uuO2piodtLwdrKF92SIL+xXE3ETqcnOzJ2J2nKpbOOfMJRdfhvVDdlOEN+w/9v5+ppWRlrg80j9RSMIAPKw==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\Nagubi\\Documents\\programas-net\\p90-tercer-examen-parcial\\p90-tercer-examen-parcial.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\angel\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\angel\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

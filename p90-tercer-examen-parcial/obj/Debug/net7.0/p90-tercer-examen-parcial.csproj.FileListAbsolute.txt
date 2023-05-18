@@ -1,0 +1,15 @@
+D:\Users\Nagubi\Documents\programas-net\p90-tercer-examen-parcial\bin\Debug\net7.0\p90-tercer-examen-parcial.exe
+D:\Users\Nagubi\Documents\programas-net\p90-tercer-examen-parcial\bin\Debug\net7.0\p90-tercer-examen-parcial.deps.json
+D:\Users\Nagubi\Documents\programas-net\p90-tercer-examen-parcial\bin\Debug\net7.0\p90-tercer-examen-parcial.runtimeconfig.json
+D:\Users\Nagubi\Documents\programas-net\p90-tercer-examen-parcial\bin\Debug\net7.0\p90-tercer-examen-parcial.dll
+D:\Users\Nagubi\Documents\programas-net\p90-tercer-examen-parcial\bin\Debug\net7.0\p90-tercer-examen-parcial.pdb
+D:\Users\Nagubi\Documents\programas-net\p90-tercer-examen-parcial\obj\Debug\net7.0\p90-tercer-examen-parcial.csproj.AssemblyReference.cache
+D:\Users\Nagubi\Documents\programas-net\p90-tercer-examen-parcial\obj\Debug\net7.0\p90-tercer-examen-parcial.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Nagubi\Documents\programas-net\p90-tercer-examen-parcial\obj\Debug\net7.0\p90-tercer-examen-parcial.AssemblyInfoInputs.cache
+D:\Users\Nagubi\Documents\programas-net\p90-tercer-examen-parcial\obj\Debug\net7.0\p90-tercer-examen-parcial.AssemblyInfo.cs
+D:\Users\Nagubi\Documents\programas-net\p90-tercer-examen-parcial\obj\Debug\net7.0\p90-tercer-examen-parcial.csproj.CoreCompileInputs.cache
+D:\Users\Nagubi\Documents\programas-net\p90-tercer-examen-parcial\obj\Debug\net7.0\p90-tercer-examen-parcial.dll
+D:\Users\Nagubi\Documents\programas-net\p90-tercer-examen-parcial\obj\Debug\net7.0\refint\p90-tercer-examen-parcial.dll
+D:\Users\Nagubi\Documents\programas-net\p90-tercer-examen-parcial\obj\Debug\net7.0\p90-tercer-examen-parcial.pdb
+D:\Users\Nagubi\Documents\programas-net\p90-tercer-examen-parcial\obj\Debug\net7.0\p90-tercer-examen-parcial.genruntimeconfig.cache
+D:\Users\Nagubi\Documents\programas-net\p90-tercer-examen-parcial\obj\Debug\net7.0\ref\p90-tercer-examen-parcial.dll
